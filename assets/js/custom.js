@@ -2,7 +2,7 @@
 	
 	"use strict";
 
-	// Page loading animation
+	// Pagina de animação
 	$(window).on('load', function() {
 
         $('#js-preloader').addClass('loaded');
@@ -136,7 +136,7 @@
 	
 	
 
-	// Menu Dropdown Toggle
+	// Menu suspenso Toggle
 	if($('.menu-trigger').length){
 		$(".menu-trigger").on('click', function() {	
 			$(this).toggleClass('active');
@@ -205,7 +205,7 @@
 	}
 
 
-	// Page loading animation
+	// Pagina de loading animação
 	$(window).on('load', function() {
 		if($('.cover').length){
 			$('.cover').parallax({
