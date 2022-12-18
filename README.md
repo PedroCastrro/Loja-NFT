@@ -27,7 +27,7 @@ Loja NFT é uma aplicação que  consiste em uma loja de vendas e compras de car
 ## Implantação em produção
 - Front end web: Netlify
 
-# Como executar o projeto
+## Como executar o projeto
 
 ## Front end web
 Pré-requisitos: code VS, Bootstrap
